@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/sebsebastiansandoval/osticket-prereqs)
+  - [Active Directory](https://github.com/sebsebastiansandoval/osticket-prereqs)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/sebsebastiansandoval/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/sebsebastiansandoval/post-install-config)
